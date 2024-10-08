@@ -36,4 +36,21 @@ Il comprend la gestion de factures, des clients, et des produits à travers dive
 - **Eureka Discovery**: Service de découverte qui permet aux micro-services de se trouver et de communiquer entre eux facilement.
 
 ![Architecture Diagram](pictures/1.png)
+![Architecture Diagram](pictures/2.png)
+![Architecture Diagram](pictures/database_3.png)
+![Architecture Diagram](pictures/products_4.png)
+![Architecture Diagram](pictures/customers_5.png)
+![Architecture Diagram](pictures/6.png)
+![Architecture Diagram](pictures/eureka_dynamic_method_6.png)
+![Architecture Diagram](pictures/7.png)
+![Architecture Diagram](pictures/8.png)
+![Architecture Diagram](pictures/9.png)
+![Architecture Diagram](pictures/10.png)
+![Architecture Diagram](pictures/11.png)
+![Architecture Diagram](pictures/12.png)
+![Architecture Diagram](pictures/13.png)
+![Architecture Diagram](pictures/14.png)
+
+
+
 
