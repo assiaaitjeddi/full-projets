@@ -1,4 +1,4 @@
-<h1>Activit Pratique N2 : Mise en oeuvre d'une architecture micro services</h1>
+<h1>Mise en oeuvre d'une architecture micro services</h1>
 
 
 ## Description
